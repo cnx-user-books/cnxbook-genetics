@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Syllabus</title>
+  <metadata>
+  <md:content-id>m26598</md:content-id><md:title>Syllabus</md:title>
+  <md:abstract/>
+  <md:uuid>cde62ec1-29e8-4ab1-b9ea-89e319c47f87</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-466140558007">
+      <title>Text </title>
+      <para id="id10796181">There are no assigned readings for this class although we recommend the following textbooks as valuable references:</para>
+      <para id="id14714688">1. Griffiths, Anthony J. F., Jeffrey H. Miller, David T. Suzuki, Richard C. Lewontin, and William M. Gelbart. An Introduction to Genetic Analysis. 7th ed. New York: W. H. Freeman, 2000. ISBN: 9780716735205.</para>
+      <para id="id11427782">2. Egger G, Liang G, Aparicio A, et al. Epigenetics in human disease and prospects for epigenetic therapy. Nature 2004;429:457-63.</para>
+      <para id="id10306995">3. Principles of genetics: A textbook, with problems (McGraw-Hill publications in the agricultural and botanical sciences).</para>
+    </section>
+    <section id="id-450368335478">
+      <title>Assignments and Exams</title>
+      <para id="id12673980">There are seven graded problem sets for this course. Students may collaborate with classmates on the problem sets, but copying problem set solutions is not permitted. Any student who copies another problem set or allows his or her problem set to be copied will be assigned a 0 for that problem set.</para>
+      <para id="id10721474">There are three one-hour exams. The exams will be closed book, but students may bring one 8 1/2 x 11 sheet of notes to the exam. In addition to the exams, there will also be a final during exam week. The final will be comprehensive and will cover material from the entire course with an emphasis on material of the lecture 31 not covered by an hour exam.</para>
+    </section>
+    <section id="id-825649611565">
+      <title>Grading</title>
+      <table id="id13796600" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">Table for Grading</entry>
+            </row>
+            <row>
+              <entry>ACTIVITIES</entry>
+              <entry>POINTS</entry>
+            </row>
+            <row>
+              <entry>Quiz I</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Quiz II</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Quiz III</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Final</entry>
+              <entry>200</entry>
+            </row>
+            <row>
+              <entry>Seven Problem Sets</entry>
+              <entry>140</entry>
+            </row>
+            <row>
+              <entry>Total</entry>
+              <entry>640</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      
+    </section>
+  </content>
+</document>

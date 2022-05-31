@@ -1,0 +1,235 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Assignments and solutions</title>
+  <metadata>
+  <md:content-id>m26550</md:content-id><md:title>Assignments and solutions</md:title>
+  <md:abstract/>
+  <md:uuid>10aad487-125a-4784-a901-59aaff311771</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    <table id="element-778" summary="">
+<title>Assignments cover the topics discussed in the corresponding lecture sessions</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>VN-LEC#</entry>
+            <entry>MIT-LEC #</entry>
+            <entry>ASSIGNMENTs</entry>
+            <entry>SOLUTIONS</entry>
+          </row>
+          <row>
+            <entry>3, 23, 29, 30, 32</entry>
+            <entry>1-5</entry>
+            <entry>Problem Set 1 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/5FECFE9D-A7C2-420B-8A24-0A95D49CAE60/0/pset1.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/79485819-A538-434E-8C78-12498D9AD533/0/pset1_ans.pdf">PDF</link>)</entry>
+          </row>
+          <row>
+            <entry>18, 27, 29, 30</entry>
+            <entry>6-9</entry>
+            <entry>Problem Set 2 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/4659BEC4-46A6-41EB-A5F3-C9E084C8A915/0/pset2.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/31E69435-2863-4B63-B8AA-9421EAA15005/0/pset2_ans.pdf">PDF</link>)</entry>
+          </row>
+          <row>
+            <entry>16, 20-23</entry>
+            <entry>11-15</entry>
+            <entry>Problem Set 3 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/AD0C0A12-7D76-4F29-B51C-E31C1D36AE81/0/pset3.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/68CC3C8D-97AF-44A5-8BB1-387BE43FF1C7/0/pset3_ans.pdf">PDF</link>)</entry>
+          </row>
+          <row>
+            <entry>24, 25</entry>
+            <entry>16-19</entry>
+            <entry>Problem Set 4 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/7EBBB170-31BF-4C71-BD43-B374BD94498F/0/pset4.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/71743525-D0DD-4C9D-8C30-A6AA12C2F5AC/0/pset4_ans.pdf">PDF</link>)</entry>
+          </row>
+          <row>
+            <entry>25-28</entry>
+            <entry>20-24</entry>
+            <entry>Problem Set 5 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/BD82220D-1CCA-42CF-9551-533B929FC5EA/0/pset5.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/046DB80F-7C61-4507-8010-10FB00662416/0/pset5_ans.pdf">PDF</link>)</entry>
+          </row>
+          <row>
+            <entry>33, 28</entry>
+            <entry>25-30</entry>
+            <entry>Problem Set 6 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/385A8DE2-2F5C-4C5D-B5FD-98DC58C73FA1/0/pset6.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/9F05B8F8-E950-4CB7-9FFD-F031AB7991F4/0/pset6_ans.pdf">PDF</link>)</entry>
+          </row>
+          <row>
+            <entry>31</entry>
+            <entry>31-35</entry>
+            <entry>Problem Set 7 (<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/776D4382-3076-49C0-BE13-B8EE920967AB/0/pset7.pdf">PDF</link>)</entry>
+            <entry>(<link url="http://ocw.mit.edu/NR/rdonlyres/Biology/7-03Fall-2004/E9DAEE87-42B6-4AB9-B719-5E676648F754/0/pset7_ans.pdf">PDF</link>)</entry>
+          </row>
+        </tbody>
+
+</tgroup>
+</table><exercise id="element-756"><problem id="id4004514">
+		<para id="element-512"><list id="question1" list-type="bulleted">
+  <title>A chromosome:</title>
+<item>A.  is composed of amino acids</item>
+<item>B.  is organized in the nucleus by histones</item> 
+<item>C.  is produced from RNA</item> 
+<item>D.  is present in 46 pairs in human cells</item> 
+</list>
+		</para>
+	</problem>
+	<solution id="id13192258">
+		<para id="element-820">
+D.  is present in 46 pairs in human cells 
+		</para>
+	</solution></exercise><exercise id="element-262"><problem id="id14077548">
+		<para id="element-259">
+<list id="question2" list-type="bulleted">
+  <title>Genes:</title>
+<item>A.  never function when they contain a mutation</item> 
+<item>.  directly produce proteins</item> 
+<item>C.  contain random pairings of nucleotides</item> 
+<item>D.  all of the above</item> 
+<item>E.  none of the above</item>
+</list>
+		</para>
+	</problem>
+
+	<solution id="id20236752">
+		<para id="element-788">
+E.  none of the above
+		</para>
+	</solution>
+</exercise><exercise id="element-34"><problem id="id18370723">
+		<para id="element-156"><list id="element-160" list-type="bulleted">
+<title>During the process of transcription, genetic information is transferred from:</title> 
+<item>A.  DNA to RNA</item> 
+<item>B.  RNA to DNA</item> 
+<item>C.  DNA to protein</item> 
+<item>D.  Protein to RNA</item> 
+</list>
+
+		</para>
+	</problem>
+
+	<solution id="id15084911">
+		<para id="element-353">
+A.  DNA to RNA
+		</para>
+	</solution>
+</exercise><exercise id="element-222"><problem id="id11741569">
+		<para id="element-661"><list id="element-30" list-type="bulleted">
+<title>A mutation that __________ production of a given _________ can manifest as clinical disease.</title>
+<item>A.  increases/protein</item> 
+<item>B.  decreases/mRNA</item> 
+<item>C.  decreases/ protein</item> 
+<item>D.  increases/mRNA</item> 
+<item>E.  all of the above</item> 
+<item>F.  none of the above</item>  
+</list>		
+		</para>
+	</problem>
+	<solution id="id13939925">
+		<para id="element-655">
+F.  none of the above
+		</para>
+	</solution></exercise><exercise id="element-485"><problem id="id5374913">
+		<para id="element-103">
+<list id="element-39" list-type="bulleted">
+<title>A mutation occurs that disrupts the normal structure and function of hemoglobin.  Which of the following is true?</title>
+<item>A.  clinical disease will develop based on the mutation alone.</item> 
+<item>B.  environmental factors can play a large role in the development of clinical disease.</item> 
+<item>C.  each person with the same mutation will follow the same clinical course.</item> 
+<item>D.  family members should be tested for this hereditary condition.</item> 
+</list>
+		</para>
+	</problem>
+	<solution id="id17601616">
+		<para id="element-400">
+A.  clinical disease will develop based on the mutation alone.
+		</para>
+	</solution>
+</exercise><exercise id="element-174"><problem id="id17649333">
+		<para id="element-410">
+<list id="element-217" list-type="bulleted">
+<title>A germline mutation ___________ while a somatic mutation _______________.</title>
+<item>A.  is never passed from parents to offspring // is present in all cells of one’s body</item> 
+<item>B.  is always passed from parents to offspring // is present in all cells of one’s body</item> 
+<item>C.  is present in all cells of one’s body // is never passed from parents to offspring</item> 
+<item>D.  is responsible for non-hereditary cancers // is not often a direct cause of inherited disease</item> 
+</list>
+		</para>
+	</problem>
+	<solution id="id18638571">
+		<para id="element-619">
+C.  is present in all cells of one’s body // is never passed from parents to offspring
+		</para>
+	</solution>
+</exercise><exercise id="element-274"><problem id="id9130465">
+		<para id="element-550">
+<list id="element-566" list-type="bulleted">
+<title>A missense mutation</title>
+<item>A.  does not affect protein structure</item> 
+<item>B.  does not affect protein function</item> 
+<item>C.  leads to substitution of an amino acid in a new place in the protein</item> 
+<item>D.  all of the above</item> 
+<item>E.  none of the above</item> 
+</list>
+		</para>
+	</problem>
+	<solution id="id3614836">
+		<para id="element-264">
+C.  leads to substitution of an amino acid in a new place in the protein
+		</para>
+	</solution>
+</exercise><exercise id="element-596"><problem id="id9748581">
+		<para id="element-237"><list id="element-496" list-type="bulleted">
+<title>A nonsense mutation</title>
+<item>A.  does not affect protein structure</item> 
+<item>B.  may not lead to clinical disease</item> 
+<item>C.  involves an inappropriate stop codon</item> 
+<item>D.  A and B</item> 
+<item>E.  A and C</item> 
+<item>F.  All of the above</item> 
+</list>
+
+		</para>
+	</problem>
+
+	<solution id="id17675405">
+		<para id="element-201">C. involves an inappropriate stop codon
+		</para>
+	</solution>
+</exercise><exercise id="element-75"><problem id="id11704741">
+		<para id="element-365">
+<list id="element-715" list-type="bulleted">
+<title>A silent mutation</title>
+<item>A.  results in no change in protein structure/function</item> 
+<item>B.  can sometimes lead to clinical disease</item> 
+<item>C.  involves substitution of one amino acid for another</item> 
+<item>D.  A and C</item> 
+<item>E.  A and B</item>  
+</list>
+		</para>
+	</problem>
+	<solution id="id15789653">
+		<para id="element-176">
+A.  results in no change in protein structure/function
+		</para>
+	</solution>
+</exercise><exercise id="element-187"><problem id="id12213673">
+		<para id="element-363">
+<list id="element-68" list-type="bulleted">
+<title>A polymorphism is a form of mutation that leads to clinical disease.</title>
+<item>True</item>
+<item>Flase</item>
+</list>
+		</para>
+	</problem>
+	<solution id="id17655861">
+		<para id="element-717">
+False
+		</para>
+	</solution>
+</exercise>
+  </content>
+</document>
