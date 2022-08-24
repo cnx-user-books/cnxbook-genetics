@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10782</md:content-id>  <md:title>Genetics</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>cbba1ce8-b158-45af-a907-b99e32dff7be</md:uuid>
-<md:slug>genetics</md:slug>
-</metadata>  <col:content>          <col:module document="m26598"/>                            <col:module document="m26565"/>                            <col:module document="m26561"/>                            <col:module document="m26573"/>                            <col:module document="m26548"/>                            <col:module document="m26550"/>                            <col:module document="m26593"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Professor Le Dinh Luong">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10782</md:content-id>
+    <md:title>Genetics</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>cbba1ce8-b158-45af-a907-b99e32dff7be</md:uuid>
+    <md:slug>genetics</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m26598"/>
+    <col:module document="m26565"/>
+    <col:module document="m26561"/>
+    <col:module document="m26573"/>
+    <col:module document="m26548"/>
+    <col:module document="m26550"/>
+    <col:module document="m26593"/>
+  </col:content>
+</col:collection>
